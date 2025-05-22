@@ -1,0 +1,29 @@
+body {
+    font-family: "Funnel Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: #ffb6c1;
+    color: #6d1925 ;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+
+header {
+    background-color:white;
+    color:#ed8696 ;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;  
+    border-radius: 20px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+   
+}
